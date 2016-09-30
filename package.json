@@ -1,0 +1,25 @@
+{
+    "author": "robisodd",
+    "dependencies": {},
+    "files": [
+        "dist.zip"
+    ],
+    "keywords": [],
+    "name": "watch_info",
+    "pebble": {
+        "messageKeys": [],
+        "projectType": "package",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
